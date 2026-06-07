@@ -87,6 +87,140 @@ const vigneshwar = {
 
 ---
 
+### Work Experience
+
+<details>
+<summary><b>Span Technology Services Pvt Ltd</b> &mdash; Junior Software Engineer &nbsp;|&nbsp; Jun 2023 – Present &nbsp;|&nbsp; Coimbatore, India</summary>
+
+<br/>
+
+> `Node.js` `Express.js` `Next.js` `React.js` `MongoDB` `PostgreSQL` `Apache Kafka` `Redis` `AWS Lambda` `AWS SQS` `AWS Secrets Manager` `Docker` `Jenkins` `Jest` `Sentry` `TypeScript`
+
+- Engineered and delivered features across **6+ production SaaS products** using React.js, Next.js, Node.js, MongoDB, PostgreSQL, Kafka, and AWS, serving thousands of users across fintech and tax-compliance domains.
+- Designed and delivered a **payment module supporting 6+ subscription tiers**, handling billing logic, plan enforcement, and credit validation end-to-end.
+- Built secure RESTful APIs for **IRS notice upload, document parsing, and postal submission workflows**, with HMAC-based request authentication and anti-tampering mechanisms.
+- Architected **event-driven microservices using Apache Kafka and Redis**, integrating AWS Lambda and SQS for resilient async processing at scale.
+- Enforced RBAC, HMAC authentication, and security best practices across production systems while building bulk upload and payout processing workflows capable of handling **10,000+ vendor records**.
+
+</details>
+
+---
+
+### Featured Projects
+
+<details>
+<summary><b>🏛️ Tax Notices Management System</b></summary>
+
+<br/>
+
+**Tech Stack:** Node.js • Express.js • Next.js • MongoDB • Redis • Apache Kafka • AWS Lambda • AWS SQS • AWS Secrets Manager
+
+- Developed a secure platform for uploading, validating, processing, and tracking IRS tax notices.
+- Implemented HMAC authentication, secure document processing, and AWS-based workflows using Lambda, SQS, and Secrets Manager.
+- Built event-driven processing pipelines with Apache Kafka and Redis to support scalable and reliable document operations.
+- Developed APIs for notice management, document validation, postal submission workflows, and audit tracking.
+
+</details>
+
+---
+
+<details>
+<summary><b>📄 Form W9 Platform</b></summary>
+
+<br/>
+
+**Tech Stack:** Node.js • Express.js • Next.js • MongoDB • PostgreSQL • Redis • Apache Kafka • AWS
+
+- Developed a Form W-9 compliance platform for tax document collection, validation, processing, and regulatory reporting workflows.
+- Integrated Cybersource payment gateway with secure authentication, payment processing, transaction tracking, and payment reconciliation.
+- Designed scalable APIs and interactive dashboards for payment reporting, document management, audit tracking, and business operations.
+- Built secure compliance workflows supporting tax reporting and financial operations.
+
+</details>
+
+---
+
+<details>
+<summary><b>🏢 BOIR (Beneficial Ownership Information Report) Platform</b></summary>
+
+<br/>
+
+**Tech Stack:** Node.js • Express.js • Next.js • MongoDB • Redis • Apache Kafka • AWS Lambda
+
+- Developed a compliance platform for managing Beneficial Ownership Information filings and regulatory reporting.
+- Implemented authentication, payment processing, document management, reporting, and audit-tracking features.
+- Designed scalable event-driven backend services using AWS Lambda, Apache Kafka, and Redis for reliable processing.
+- Built secure workflows supporting compliance requirements and operational transparency.
+
+</details>
+
+---
+
+<details>
+<summary><b>🛡️ Tax Protection Portal</b></summary>
+
+<br/>
+
+**Tech Stack:** Node.js • Express.js • Next.js • MongoDB • PostgreSQL • Redis • Apache Kafka • AWS • Sequelize
+
+- Developed a Tax Protection Portal for financial reporting and payment protection workflows, enabling secure filing, tracking, and compliance management.
+- Built user-friendly dashboards and backend APIs to manage payment protection records, reporting, and operational visibility.
+- Implemented a dual-database architecture using MongoDB and PostgreSQL with Sequelize ORM.
+- Improved data management, scalability, and reporting performance across the platform.
+
+</details>
+
+---
+
+<details>
+<summary><b>⚛️ OpenHooks — Open Source React Hooks Library</b></summary>
+
+<br/>
+
+**Tech Stack:** TypeScript • React • Node.js • CLI • Fumadocs
+
+- Built an open-source React hooks library and CLI tool for reusable hook management.
+- Developed production-ready TypeScript hooks and comprehensive developer documentation.
+- Created a documentation platform and CLI tooling to improve developer productivity.
+- Published and maintained an open-source ecosystem with growing community adoption through npm.
+
+</details>
+
+---
+
+<details>
+<summary><b>🚀 Express 1099 Bulk Upload System</b></summary>
+
+<br/>
+
+**Tech Stack:** Node.js • Express.js • Next.js • MongoDB • Redis • Apache Kafka • AWS
+
+- Developed a high-volume 1099 bulk upload system capable of processing **10,000+ vendor and payout records** for tax reporting and compliance requirements.
+- Built APIs and validation workflows to manage vendor onboarding, gig worker data, payout processing, and error correction at scale.
+- Leveraged Redis and Apache Kafka to implement scalable asynchronous processing pipelines.
+- Improved performance, reliability, and operational efficiency across large-scale tax-compliance workflows.
+
+</details>
+
+---
+
+### Achievements
+
+<div align="center">
+
+| | Achievement | Details |
+|---|---|---|
+| **Brilliance Award** | HMAC Auth & Security Engineering | Designed HMAC-based request auth, anti-tampering, and RBAC enforcement across production services |
+| **Productivity Pro Award** | Security Best Practices | Embedded security-first principles from the ground up across 7+ products |
+| **Span Super Star Award** | BOIR + Tax Protection Portal | Led delivery of BOIR product and Tax Protection Portal using Next.js App Router |
+| **Semi-Fun Award** | Payment Screen Excellence | Delivered extraordinary payment screen UI updates recognized company-wide |
+| **Contest Winner** | Technical Insights | Recognized for engineering quality and technical depth in internal competition |
+| **Pat on the Back** | BOIR Credit Module | Built credit validation module and Mini-Bandito features under tight timelines |
+| **Conference Presenter** | MIMO-NOMA Deep Learning | Presented research paper on MIMO-NOMA using Deep Learning at NC2SD conference |
+| **High-Scale Processing Initiative** | Express 1099 Bulk Upload System | Developed bulk upload and payout processing workflows handling 10,000+ vendor records using Kafka and Redis-based asynchronous architecture |
+
+</div>
+
 ### GitHub Stats
 
 <div align="center">
@@ -121,61 +255,6 @@ const vigneshwar = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=stsvigneshwarr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-### Work Experience
-
-<details>
-<summary><b>Span Technology Services Pvt Ltd</b> &mdash; Junior Software Engineer &nbsp;|&nbsp; Jun 2023 – Present &nbsp;|&nbsp; Coimbatore, India</summary>
-
-<br/>
-
-> `Node.js` `Express.js` `Next.js` `React.js` `MongoDB` `PostgreSQL` `Apache Kafka` `Redis` `AWS Lambda` `AWS SQS` `AWS Secrets Manager` `Docker` `Jenkins` `Jest` `Sentry` `TypeScript`
-
-- Engineered features across **6+ production products** using React.js, Next.js, Node.js, MongoDB, PostgreSQL, Kafka, and AWS, directly impacting thousands of users across fintech and tax-compliance domains.
-- Designed and delivered a **payment module supporting 6+ subscription tiers**, handling billing logic, plan enforcement, and credit validation end-to-end.
-- Built secure RESTful APIs for **IRS notice upload, document parsing, and postal submission workflows**, with HMAC-based request authentication and anti-tampering mechanisms.
-- Architected **event-driven microservices using Apache Kafka and Redis**, integrating AWS Lambda and SQS for resilient async processing at scale.
-- Enforced RBAC, HMAC authentication, and security best practices across production systems while building bulk upload and payout processing workflows capable of handling **10,000+ vendor records**.
-
-</details>
-
----
-
-### Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|----------|--------|------------|
-| **Tax Notices Management System** | Node.js, Express.js, Next.js, MongoDB, Redis, Apache Kafka, AWS Lambda, AWS SQS, AWS Secrets Manager | Developed a secure platform for uploading, validating, processing, and tracking IRS tax notices. Implemented HMAC authentication, secure document processing, and AWS-based workflows using Lambda, SQS, and Secrets Manager. Built event-driven processing pipelines with Apache Kafka and Redis to support scalable and reliable document operations. |
-| **Form W9 Platform** | Node.js, Express.js, Next.js, MongoDB, PostgreSQL, Redis, Apache Kafka, AWS | Developed a Form W-9 compliance platform for tax document collection, validation, processing, and regulatory reporting workflows. Integrated Cybersource payment gateway with secure authentication, payment processing, transaction tracking, and payment reconciliation features. Designed scalable APIs and interactive dashboards for payment reporting, document management, audit tracking, and business operations. |
-| **BOIR (Beneficial Ownership Information Report) Platform** | Node.js, Express.js, Next.js, MongoDB, Redis, Apache Kafka, AWS Lambda | Developed a compliance platform for managing Beneficial Ownership Information filings and regulatory reporting. Implemented authentication, payment processing, document management, reporting, and audit-tracking features. Designed scalable event-driven backend services using AWS Lambda, Apache Kafka, and Redis for reliable processing. |
-| **Tax Protection Portal** | Node.js, Express.js, Next.js, MongoDB, PostgreSQL, Redis, Apache Kafka, AWS | Developed a Tax Protection Portal for financial reporting and payment protection workflows, enabling secure filing, tracking, and compliance management. Built user-friendly dashboards and backend APIs to manage payment protection records, reporting, and operational visibility. Implemented a dual-database architecture using MongoDB and PostgreSQL with Sequelize ORM, improving scalability and performance. |
-| **OpenHooks — Open Source React Hooks Library** | TypeScript, React, Node.js, CLI, Fumadocs | Built an open-source React hooks library and CLI tool for reusable hook management. Developed production-ready TypeScript hooks and documentation to improve developer productivity and adoption. Published an open-source React hooks ecosystem with CLI tooling, TypeScript support, documentation platform, and growing community adoption through npm. |
-| **Express 1099 Bulk Upload System** | Node.js, Express.js, Next.js, MongoDB, Redis, Apache Kafka, AWS | Developed a high-volume 1099 bulk upload system capable of processing **10,000+ vendor and payout records** for tax reporting and compliance requirements. Built APIs and validation workflows to manage vendor onboarding, gig worker data, payout processing, and error correction at scale. Leveraged Redis and Apache Kafka to implement scalable asynchronous processing that improved performance, reliability, and operational efficiency. |
-
-</div>
-
----
-
-### Achievements
-
-<div align="center">
-
-| | Achievement | Details |
-|---|---|---|
-| **Brilliance Award** | HMAC Auth & Security Engineering | Designed HMAC-based request auth, anti-tampering, and RBAC enforcement across production services |
-| **Productivity Pro Award** | Security Best Practices | Embedded security-first principles from the ground up across 7+ products |
-| **Span Super Star Award** | BOIR + Tax Protection Portal | Led delivery of BOIR product and Tax Protection Portal using Next.js App Router |
-| **Semi-Fun Award** | Payment Screen Excellence | Delivered extraordinary payment screen UI updates recognized company-wide |
-| **Contest Winner** | Technical Insights | Recognized for engineering quality and technical depth in internal competition |
-| **Pat on the Back** | BOIR Credit Module | Built credit validation module and Mini-Bandito features under tight timelines |
-| **Conference Presenter** | MIMO-NOMA Deep Learning | Presented research paper on MIMO-NOMA using Deep Learning at NC2SD conference |
-| **Scale Engineering Recognition** | Express 1099 Bulk Upload System | Delivered bulk upload and payout processing workflows handling 10,000+ vendor records using Kafka and Redis-based asynchronous architecture |
-
 </div>
 
 ---
