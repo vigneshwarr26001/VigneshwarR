@@ -134,7 +134,7 @@ const vigneshwar = {
 
 > `Node.js` `Express.js` `Next.js` `React.js` `MongoDB` `PostgreSQL` `Apache Kafka` `Redis` `AWS Lambda` `AWS SQS` `AWS Secrets Manager` `Docker` `Jenkins` `Jest` `Sentry` `TypeScript`
 
-- Engineered features across **7+ production products** using the MERN stack and Next.js App Router, directly impacting thousands of end users in fintech and tax-compliance domains.
+- Engineered features across **6+ production products** using the MERN stack and Next.js App Router, directly impacting thousands of end users in fintech and tax-compliance domains.
 - Designed and delivered a **payment module supporting 6+ subscription tiers**, handling billing logic, plan enforcement, and credit validation end-to-end.
 - Built secure RESTful APIs for **IRS notice upload, document parsing, and postal submission workflows**, with HMAC-based request authentication and anti-tampering mechanisms.
 - Architected **event-driven microservices using Apache Kafka and Redis**, integrating AWS Lambda and SQS for resilient async processing at scale.
